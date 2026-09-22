@@ -32,7 +32,3 @@ When reusing, redistributing, or citing this work, keep the attribution credits 
 ## License
 
 This skill is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (`CC BY 4.0`). Keep attribution, link to the license, and indicate changes when sharing adaptations. The full license is included in the import repository and the canonical skill folder.
-
-## Documentation convention
-
-Always write **jevify** in lowercase. Keep public repository documentation and GitHub descriptions in English.
